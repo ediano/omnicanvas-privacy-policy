@@ -2,6 +2,8 @@
 
 **Last Updated:** June 2026
 
+[**OmniCanvas Privacy** - Chrome Web Store](https://chromewebstore.google.com/detail/cofipknbkehhaildehfcljkedlbpcccp?utm_source=item-share-cb)
+
 Your privacy is extremely important to us. The **OmniCanvas Privacy** browser extension is designed from the ground up to protect your visual privacy while using messaging web platforms. This Privacy Policy explains how we handle information.
 
 ---
