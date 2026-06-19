@@ -2,6 +2,8 @@
 
 **Última atualização:** Junho de 2026
 
+[**Code Syntax Hub** - Chrome Web Store](https://chromewebstore.google.com/detail/neojcaeeoommblkjjdcalokledibfimn?utm_source=item-share-cb)
+
 Esta Política de Privacidade descreve como o **Code Syntax Hub** ("nós", "nosso" ou "a extensão") lida com as informações e dados dos usuários. Nós levamos a sua privacidade a sério e operamos sob o princípio do **uso mínimo de dados e processamento estritamente local**.
 
 Ao instalar e usar o Code Syntax Hub, você concorda com as práticas descritas nesta política.
